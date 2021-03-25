@@ -1,7 +1,4 @@
-Jenkins Credentials
-
-C:\Windows\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\secrets\initialAdminPassword
-
-http://localhost:8080/login?from=%2F
-
-
+usrname
+minion
+password
+ibrahimb
