@@ -10,3 +10,5 @@ Jenkins Credentials
 C:\Windows\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\secrets\initialAdminPassword
 
 http://localhost:8080/login?from=%2F
+
+Message - Yn da epdi pandreenga kiruku mendal payalungala
