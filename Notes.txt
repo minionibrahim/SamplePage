@@ -3,7 +3,7 @@ Git Credentials
 usrname
 minion
 password
-ibrahimb
+ibrahim
 
 Jenkins Credentials
 
