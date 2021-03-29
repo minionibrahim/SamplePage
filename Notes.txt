@@ -11,4 +11,4 @@ C:\Windows\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\secrets\
 
 http://localhost:8080/login?from=%2F
 
-Unakku ennapa nu sonna serupala adipen
+
